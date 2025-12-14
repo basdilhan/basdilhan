@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Samudu Dilhan 👋</h1>
 <p align="center">
-  <b>Full‑stack developer</b> crafting fast, clean, and user-friendly web & mobile experiences.
+  <b>Full‑stack developer</b> crafting fast, clean, and user-friendly web & mobile experiences.Also passionate about data analysis and statistics
 </p>
 
 <p align="center">
