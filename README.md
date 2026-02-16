@@ -1,46 +1,71 @@
 <h1 align="center">Hi, I'm Samudu Dilhan 👋</h1>
 <p align="center">
-  <b>Full‑stack developer</b> crafting fast, clean, and user-friendly web & mobile experiences.Also passionate about data analysis and statistics
+  Full-stack Developer | Mobile App Developer | Data Enthusiast  
 </p>
 
 <p align="center">
-  <a href="mailto:samudu.dilhan@example.com"><img src="https://img.shields.io/badge/Email-64ffda?style=for-the-badge&logo=gmail&logoColor=0a192f" /></a>
-  <a href="https://www.linkedin.com/in/samudu-dilhan-45907028b/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/basdilhan"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:samudu.dilhan@example.com">
+    <img src="https://img.shields.io/badge/Email-64ffda?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/samudu-dilhan-45907028b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/basdilhan">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-## 🚀 About
-- 🔭 Building: React/Vite frontends, REST backends, Flutter apps  
-- 🌱 Learning: Cloud & DevOps tooling  
-- 💼 Open to: Full‑stack & mobile roles  
-- 🌐 Portfolio: https://github.com/basdilhan/my-portfolio  
+---
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=0a192f" />
-  <img src="https://img.shields.io/badge/Vite-646cff?style=flat&logo=vite&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS%20Modules-264de4?style=flat&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Node.js-3c873a?style=flat&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat&logo=springboot&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MySQL-00618a?style=flat&logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Flutter-02569b?style=flat&logo=flutter&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=0a192f" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=fff" />
+## 🚀 About Me
+- 🔭 Building scalable web & mobile apps  
+- 🌱 Learning Cloud & DevOps  
+- 💼 Open for developer roles  
+- ❤️ Love clean UI + solid backend logic  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,node,php,spring,mysql,flutter,firebase,git,github,linux" />
 </p>
 
-## 🌟 Featured Projects
-- **IPD Health Hub** – Hospital IPD management (PHP, MySQL, Bootstrap)  
-  `Code:` https://github.com/basdilhan/hospital-IPD-management-system  
-- **Developer Portfolio** – High-performance personal site (React, Vite)  
-  `Code:` https://github.com/basdilhan/my-portfolio  
-- **RideEase** – Car rental backend (Spring Boot, Java, MySQL)  
-  `Code:` https://github.com/basdilhan/Ride-Ease  
-- **IoT Tea Pro** – IoT tea brewing controller app (Flutter, Firebase, MQTT)  
-  `Code:` https://github.com/basdilhan/iot_tea_pro  
+---
 
-## 📊 Stats
-<p>
-  <img src="https://streak-stats.demolab.com?user=basdilhan&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basdilhan&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basdilhan&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basdilhan&theme=tokyonight" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=basdilhan&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=basdilhan&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/basdilhan/basdilhan/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=basdilhan&style=flat&color=64ffda" />
+</p>
+
+---
+
+✨ Always building. Always learning. Always improving.
