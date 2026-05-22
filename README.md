@@ -1,103 +1,187 @@
-# 👋 Samudu Dilhan
+# Hi there, I'm **Samudu Dilhan** 👋
 
-**Full-Stack Developer | Mobile Specialist | AI & Data Science Enthusiast**
-
-> *Crafting elegant solutions that bridge code and creativity*
-
----
-
-## ⚡ Quick Overview
-
-```
-🎓 Undergraduate @ NIBM Galle, Sri Lanka
-💼 Seeking Internship in Full-Stack & Mobile Development
-🌍 Location: Galle, Sri Lanka
-⚙️ Philosophy: "Be simple, be unique at the same time"
-```
+<div align="center">
+  <h3>🚀 Full-Stack Developer | ML Engineer | Tech Enthusiast</h3>
+  <p>
+    <a href="https://samududilhanportfolio.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/basdilhan" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🔥 What I Do
+## 🎯 About Me
 
-| **Full-Stack** | **Mobile** | **AI/ML** |
-|:---:|:---:|:---:|
-| End-to-end web applications | Android & Flutter apps | Data science & ML models |
-| Clean architecture | Responsive design | Predictive analytics |
-| Scalable solutions | User-first approach | Data visualization |
+I'm a passionate developer crafting innovative solutions at the intersection of **web development**, **machine learning**, and **data science**. With expertise spanning frontend technologies, backend systems, and AI/ML algorithms, I'm committed to building applications that make a real-world impact.
+
+Currently exploring cutting-edge technologies and contributing to open-source projects while continuously expanding my technical skill set.
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** Java • Python • JavaScript • TypeScript • Dart • PHP
+<div align="center">
 
-**Frontend:** React • Vue.js • HTML5 • CSS3
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 
-**Mobile:** Android • Flutter
+### **Frontend & Mobile**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend & Databases:** Firebase • MySQL • PostgreSQL • MongoDB
+### **Data & ML**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML%20%26%20AI-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
 
-**Data Science:** Pandas • NumPy • scikit-learn • Jupyter
-
-**Tools:** Git • GitHub • VS Code • Android Studio
-
----
-
-## 🚀 Featured Projects
-
-### 📱 **Personal Finance Management App**
-Secure Android app for expense tracking with Firebase sync and analytics dashboard.  
-[→ Repository](https://github.com/basdilhan/Personal-finance-management-app)
-
-### 🎨 **Portfolio Website**
-Modern React portfolio with smooth animations and responsive design.  
-[→ Repository](https://github.com/basdilhan/my-portfolio)
-
-### 🤖 **ML Solar Management System**
-Machine learning project for solar energy prediction using Python & scikit-learn.  
-[→ Repository](https://github.com/basdilhan/Ml_SolarManage)
-
-### 🏥 **Health Hub**
-Comprehensive healthcare management system with patient records and appointments.  
-[→ Repository](https://github.com/basdilhan/ipd-health-hub)
-
-### 📡 **IoT Tea Production System**
-Real-time IoT monitoring system built with Flutter and Dart.  
-[→ Repository](https://github.com/basdilhan/iot_tea_pro)
+</div>
 
 ---
 
-## 📊 Stats & Activity
+## 🏆 Featured Projects
 
-<a href="https://github.com/basdilhan">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=basdilhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basdilhan&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+### **💰 Personal Finance Management App**
+A comprehensive Java-based application for tracking expenses, managing budgets, and analyzing financial patterns.
+- 📊 Expense tracking and visualization
+- 📈 Budget planning & alerts
+- 💾 Secure data persistence
+- 🔄 Transaction history management
 
----
-
-## 🎯 Current Focus
-
-- ✅ Full-stack development & scalability
-- ✅ Mobile app optimization
-- ✅ Cloud architecture (AWS/Azure)
-- ✅ Advanced ML techniques
+**[→ View Repository](https://github.com/basdilhan/Personal-finance-management-app)**
 
 ---
 
-## 🔗 Let's Connect
+### **🌍 Market Basket Analysis**
+Machine learning project analyzing customer purchasing patterns using data science techniques.
+- 📉 Association rule mining
+- 🔍 Customer behavior insights
+- 📊 Market segmentation analysis
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/basdilhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samudu-dilhan-45907028b/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:dilhansamudu@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/basdilhan)
+**[→ View Repository](https://github.com/basdilhan/DW_MarketBasket)**
+
+---
+
+### **☀️ ML Solar Management System**
+Predictive machine learning system for optimizing solar energy management and forecasting.
+- 🔮 Energy prediction models
+- ⚡ Efficiency optimization
+- 📉 Performance analytics
+
+**[→ View Repository](https://github.com/basdilhan/Ml_SolarManage)**
+
+---
+
+### **👨‍🍳 ChefFlow**
+Modern web application for discovering and sharing recipes with an intuitive user interface.
+- 🍳 Recipe discovery & management
+- 👥 Community sharing features
+- 🎨 Responsive design
+
+**[→ View Repository](https://github.com/basdilhan/ChefFlow)**
+
+---
+
+### **🏥 IPD Health Hub**
+First-year capstone project for patient management and healthcare information system.
+- 👤 Patient record management
+- 📋 Appointment scheduling
+- 📊 Health analytics dashboard
+
+**[→ View Repository](https://github.com/basdilhan/ipd-health-hub)**
+
+---
+
+### **🛗 Ride-Ease**
+EAD2 Module coursework - Transportation booking platform with seamless user experience.
+- 🚗 Ride booking system
+- 🗺️ Route optimization
+- 💳 Secure payment integration
+
+**[→ View Repository](https://github.com/basdilhan/ride-ease)**
+
+---
+
+### **🏠 Portfolio Website**
+Personal portfolio showcasing projects and professional experience.
+- 🎨 Modern design & animations
+- 📱 Fully responsive
+- ⚡ Optimized performance
+
+**[→ View Repository](https://github.com/basdilhan/my-portfolio)**
+
+---
+
+### **🔌 GM Frontend**
+Modern frontend application with cutting-edge UI/UX principles.
+- 🎭 Component-based architecture
+- 📱 Mobile-first approach
+- ⚡ Performance optimized
+
+**[→ View Repository](https://github.com/basdilhan/GM-frontend)**
+
+---
+
+### **📱 IoT Tea Production System**
+Real-time IoT monitoring system built with Flutter and Dart.
+- 🔌 IoT device integration
+- 📊 Real-time data monitoring
+- 📱 Cross-platform mobile app
+
+**[→ View Repository](https://github.com/basdilhan/iot_tea_pro)**
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![Public Repos](https://img.shields.io/badge/Public%20Repos-11-blue?style=flat-square)
+![GitHub Contributions](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+</div>
+
+---
+
+## 🎓 What I'm Learning
+
+- 🤖 Advanced Machine Learning & Deep Learning
+- 🔐 Cybersecurity & Secure Coding Practices
+- 🏗️ System Design & Scalable Architectures
+- ☁️ Cloud Technologies & DevOps
+- 📱 Cross-Platform Mobile Development
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on innovative projects and connecting with fellow developers. Feel free to reach out!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox)](https://samududilhanportfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/basdilhan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:dilhansamudu@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-**⭐ If you find my work helpful, consider starring my repositories!**
+### 💡 *"Code is poetry written for machines to execute and humans to understand."*
 
-*Built with ❤️ | Open to collaborations & opportunities*
+[![GitHub Views](https://komarev.com/ghpvc/?username=basdilhan&color=blue&style=flat-square)](https://github.com/basdilhan)
+
+**Made with ❤️ by Samudu Dilhan**
 
 </div>
